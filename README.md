@@ -6,3 +6,4 @@ Eu sou <strong>Mariana Brito</strong>, estudante. <strong></strong> 👩‍💻
 - 💬 Pergunte-me sobre: <strong>Ler, escrever, séries.</strong>
 - 📣 Nós podemos falar em: <strong>Português, Inglês e Espanhol.</strong>
 
+![maribrit21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maribrit21&theme=radical&show_icons=true&hide_border=true&layout=compact)
