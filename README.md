@@ -3,7 +3,7 @@
 Eu sou <strong>Mariana Brito</strong>, estudante. <strong></strong> 👩‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Programação Full-Stack, JavaScript.</strong> 
-- 💬 Pergunte-me sobre: <strong>Ler, escrever, séries.</strong>
+- 💬 Pergunte-me sobre: <strong>Livros, escrita, séries.</strong>
 - 📣 Nós podemos falar em: <strong>Português, Inglês e Espanhol.</strong>
 
-![maribrit21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maribrit21&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![maribrit21's Stats](https://github-readme-stats.vercel.app/api?username=maribrit21&theme=radical&show_icons=true&hide_border=true&count_private=true)
