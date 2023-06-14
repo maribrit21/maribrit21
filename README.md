@@ -2,7 +2,7 @@
 
 Eu sou <strong>Mariana Brito</strong>, estudante. <strong></strong> 👩‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Programação Full-Stack, JavaScript.</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>Programação Full-Stack, JavaScript, CSS, HTML e UX Design.</strong> 
 - 💬 Pergunte-me sobre: <strong>Livros, escrita, séries.</strong>
 - 📣 Nós podemos falar em: <strong>Português, Inglês e Espanhol.</strong>
 
